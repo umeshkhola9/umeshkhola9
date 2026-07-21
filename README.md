@@ -34,6 +34,17 @@ const Umesh Khola = {
 
 ---
 
+## 🛠 Skills
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | HTML, CSS, JavaScript |
+| Version Control | Git, GitHub |
+| Editor | VS Code |
+| Learning | Responsive Web Design |
+
+---
+
 # 🌐 Connect With Me
 
 <p align="left">
