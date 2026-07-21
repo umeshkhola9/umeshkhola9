@@ -1,4 +1,8 @@
 <div align="center">
+  
+<p align="center">
+<img src="assets/banner.svg" width="100%">
+</p>
 
 # Hi 👋, I'm Umesh Khola
 
