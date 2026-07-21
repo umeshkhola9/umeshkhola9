@@ -153,12 +153,10 @@ Explore all of my repositories.
 
 ---
 
-# 👀 Profile Views
+## 👀 Visitors
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=umeshkhola9&label=Profile%20Views&color=2196f3&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=umeshkhola9&style=for-the-badge&color=2196F3"/>
 </p>
 
 ---
