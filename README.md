@@ -99,6 +99,14 @@ Explore all of my repositories.
 
 ---
 
+## 🏅 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umeshkhola9&theme=github_dark"/>
+</p>
+
+---
+
 # 🐍 Contribution Snake
 
 <p align="center">
