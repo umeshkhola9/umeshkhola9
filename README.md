@@ -82,12 +82,15 @@ https://www.linkedin.com/in/umesh-khola-505875369
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshkhola9&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 ---
-## 🐍 Contribution Snake
+
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/umeshkhola9/umeshkhola9/output/github-contribution-grid-snake.svg">
 </p>
+
 ---
 
 # 🔥 GitHub Streak
