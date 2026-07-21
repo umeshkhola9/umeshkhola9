@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const umesh = {
+const Umesh Khola = {
     education: "BCA 3rd Year Student",
     learning: ["HTML", "CSS", "JavaScript"],
     interests: [
