@@ -63,13 +63,27 @@ https://www.linkedin.com/in/umesh-khola-505875369
 
 ---
 
-# 🚀 Featured Project
+<h1 align="center">🚀 Featured Projects</h1>
 
-### 📌 QR Entry
+### 📱 QR Entry
 
-> QR code based entry management system.
+QR code based entry management system.
 
-⭐ One of my featured GitHub projects.
+- 📌 Clean UI
+- ⚡ Fast & Responsive
+- 💻 Built with modern web technologies
+
+<a href="https://github.com/umeshkhola9/QR-Entry">
+<img src="https://img.shields.io/badge/View_Project-2196F3?style=for-the-badge"/>
+</a>
+
+### 🌟 More Projects
+
+Explore all of my repositories.
+
+<a href="https://github.com/umeshkhola9?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-000000?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
