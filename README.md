@@ -97,6 +97,12 @@ Explore all of my repositories.
 <img src="https://img.shields.io/badge/Explore-000000?style=for-the-badge&logo=github"/>
 </a>
 
+<p align="center">
+<a href="https://github.com/umeshkhola9/QR-Entry">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=umeshkhola9&repo=QR-Entry&theme=tokyonight"/>
+</a>
+</p>
+
 ---
 
 # 📊 GitHub Stats
