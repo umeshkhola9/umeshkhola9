@@ -15,7 +15,7 @@
 ---
 
 <img align="right" width="350"
-src="https://raw.githubusercontent.com/umeshkhola9/umeshkhola9/main/assets/profile.png">
+src="./assets/profile.png">
 
 ## 👨‍💻 About Me
 
