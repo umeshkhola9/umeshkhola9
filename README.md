@@ -100,6 +100,16 @@ Explore all of my repositories.
 
 ---
 
+## ⚡ Quick Facts
+
+- 🌱 Learning Frontend Development
+- 💻 Building real-world projects
+- 🚀 Improving my coding skills every day
+- 📚 Always curious to learn new technologies
+- 🤝 Open to collaborating on beginner-friendly projects
+
+---
+
 ## 🏅 GitHub Achievements
 
 <p align="center">
