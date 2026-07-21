@@ -18,18 +18,19 @@
 
 ## 👨‍💻 About Me
 
-🎓 BCA 3rd Year Student
-
-🌱 Currently learning **HTML, CSS & JavaScript**
-
-💡 Passionate about **Web Development**
-
-🚀 Building projects to improve every day
-
-📫 **Email:** umeshkhola9@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/umesh-khola-505875369
+```javascript
+const umesh = {
+    education: "BCA 3rd Year Student",
+    learning: ["HTML", "CSS", "JavaScript"],
+    interests: [
+        "Frontend Development",
+        "UI Design",
+        "Open Source"
+    ],
+    tools: ["Git", "GitHub", "VS Code"],
+    motto: "Building today, improving every day."
+};
+```
 
 ---
 
