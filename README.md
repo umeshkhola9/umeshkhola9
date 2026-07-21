@@ -90,6 +90,12 @@ QR code based entry management system.
 <img src="https://img.shields.io/badge/View_Project-2196F3?style=for-the-badge"/>
 </a>
 
+<p align="center">
+<a href="https://github.com/umeshkhola9/QR">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=umeshkhola9&repo=QR&theme=tokyonight&hide_border=true"/>
+</a>
+</p>
+
 ### 🌟 More Projects
 
 Explore all of my repositories.
@@ -104,7 +110,7 @@ Explore all of my repositories.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=umeshkhola9&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=umeshkhola9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshkhola9&layout=compact&theme=tokyonight&hide_border=true"/>
 
