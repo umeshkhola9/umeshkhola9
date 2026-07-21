@@ -14,7 +14,8 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="YOUR_IMAGE_URL_HERE">
+<img align="right" width="350"
+src="https://raw.githubusercontent.com/umeshkhola9/umeshkhola9/main/assets/profile.png">
 
 ## 👨‍💻 About Me
 
