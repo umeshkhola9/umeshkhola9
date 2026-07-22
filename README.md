@@ -115,10 +115,6 @@ Explore all of my repositories.
 
 ---
 
-
-
----
-
 ## ⚡ Quick Facts
 
 - 🌱 Learning Frontend Development
@@ -158,16 +154,6 @@ Explore all of my repositories.
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=umeshkhola9&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=umeshkhola9&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
