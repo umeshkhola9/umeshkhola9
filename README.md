@@ -141,10 +141,10 @@ Explore all of my repositories.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/umeshkhola9/umeshkhola9/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/umeshkhola9/umeshkhola9/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
